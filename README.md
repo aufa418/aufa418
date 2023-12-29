@@ -1,7 +1,7 @@
 ![MasterHead](gif.gif)
 <h1 align="center">Hi 👋, I'm Aufa</h1>
 <h3 align="center">Behind the Screens. Journey into the World of Web Development</h3>
-<img url="[https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" alt="animated coding" >
+<img url="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="animated coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aufa418&label=Profile%20views&color=0e75b6&style=flat" alt="aufa418" /> </p>
 
