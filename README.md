@@ -1,4 +1,4 @@
-[![MasterHead](gif.gif)]
+![MasterHead](gif.gif)
 <h1 align="center">Hi 👋, I'm Aufa</h1>
 <h3 align="center">Behind the Screens. Journey into the World of Web Development</h3>
 <img url="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif" alt="animated coding" >
