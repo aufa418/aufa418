@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aufa418&label=Profile%20views&color=0e75b6&style=flat" alt="aufa418" /> </p>
 
 <hr>
+
 - 🌱 I’m currently learning **React, Express, Laravel, Vue, Next JS, Kotlin**
 
 - 💬 Ask me about **Laravel, Express, Vue**
