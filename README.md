@@ -1,3 +1,4 @@
+![MasterHead](gif.gif)
 <h1 align="center">Hi 👋, I'm Aufa</h1>
 <h3 align="center">Behind the Screens. Journey into the World of Web Development</h3>
 
